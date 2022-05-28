@@ -1,0 +1,43 @@
+body {
+    padding:10px;
+    margin: 15px;
+    background-color: bisque;
+    background-size: 100%;
+}
+
+
+#texto { 
+    font-style: oblique;
+    text-align: justify;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-style:normal;
+    font-size:larger;
+    text-align: center;
+    background-color: white;
+}
+ 
+footer {
+    color:white;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-color:black;   
+}
+
+aside {
+    display:inline-block;
+    width: 300px;
+    min-height: 400px;
+    background-color:cornsilk;
+    text-align: center;
+    ;
+
+}
